@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f7f8e2;
+    color: rgb(58, 17, 17);
+    font-family: "poppins", sans-serif;
+    min-height: 100vh;
+}
