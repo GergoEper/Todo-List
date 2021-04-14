@@ -13,7 +13,7 @@ filterOption.addEventListener('click', filterTodo);
 
 //functions
 function addTodo(event){
-    //prevent form submitting
+    //prevent from submitting
     event.preventDefault();
     //Todo DIV
     const todoDiv = document.createElement('div')
